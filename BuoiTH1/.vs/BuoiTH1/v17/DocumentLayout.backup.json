@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lap Trinh Dotnet\\Code\\BuoiTH1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D58CFD-FFFD-403E-9F0C-8A7DF74B3964}|Bai8\\Bai8.csproj|d:\\lap trinh dotnet\\code\\buoith1\\bai8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D58CFD-FFFD-403E-9F0C-8A7DF74B3964}|Bai8\\Bai8.csproj|solutionrelative:bai8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D58CFD-FFFD-403E-9F0C-8A7DF74B3964}|Bai8\\Bai8.csproj|d:\\lap trinh dotnet\\code\\buoith1\\bai8\\ptbachai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D58CFD-FFFD-403E-9F0C-8A7DF74B3964}|Bai8\\Bai8.csproj|solutionrelative:bai8\\ptbachai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33917E6-67C0-49F8-8EF5-B2DF14D60146}|Bai7\\Bai7.csproj|d:\\lap trinh dotnet\\code\\buoith1\\bai7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33917E6-67C0-49F8-8EF5-B2DF14D60146}|Bai7\\Bai7.csproj|solutionrelative:bai7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C33917E6-67C0-49F8-8EF5-B2DF14D60146}|Bai7\\Bai7.csproj|d:\\lap trinh dotnet\\code\\buoith1\\bai7\\tamgiac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C33917E6-67C0-49F8-8EF5-B2DF14D60146}|Bai7\\Bai7.csproj|solutionrelative:bai7\\tamgiac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0340596-DB64-43E5-B1D0-74A001729D97}|Bai4\\Bai4.csproj|d:\\lap trinh dotnet\\code\\buoith1\\bai4\\mangsonguyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0340596-DB64-43E5-B1D0-74A001729D97}|Bai4\\Bai4.csproj|solutionrelative:bai4\\mangsonguyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MangSoNguyen.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Dotnet\\Code\\BuoiTH1\\Bai4\\MangSoNguyen.cs",
+              "RelativeDocumentMoniker": "Bai4\\MangSoNguyen.cs",
+              "ToolTip": "D:\\Lap Trinh Dotnet\\Code\\BuoiTH1\\Bai4\\MangSoNguyen.cs",
+              "RelativeToolTip": "Bai4\\MangSoNguyen.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T02:24:47.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PTBacHai.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Dotnet\\Code\\BuoiTH1\\Bai8\\PTBacHai.cs",
+              "RelativeDocumentMoniker": "Bai8\\PTBacHai.cs",
+              "ToolTip": "D:\\Lap Trinh Dotnet\\Code\\BuoiTH1\\Bai8\\PTBacHai.cs",
+              "RelativeToolTip": "Bai8\\PTBacHai.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T01:55:25.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Dotnet\\Code\\BuoiTH1\\Bai8\\Program.cs",
+              "RelativeDocumentMoniker": "Bai8\\Program.cs",
+              "ToolTip": "D:\\Lap Trinh Dotnet\\Code\\BuoiTH1\\Bai8\\Program.cs",
+              "RelativeToolTip": "Bai8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T01:54:54.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TamGiac.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Dotnet\\Code\\BuoiTH1\\Bai7\\TamGiac.cs",
+              "RelativeDocumentMoniker": "Bai7\\TamGiac.cs",
+              "ToolTip": "D:\\Lap Trinh Dotnet\\Code\\BuoiTH1\\Bai7\\TamGiac.cs",
+              "RelativeToolTip": "Bai7\\TamGiac.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwBQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T01:40:40.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lap Trinh Dotnet\\Code\\BuoiTH1\\Bai7\\Program.cs",
+              "RelativeDocumentMoniker": "Bai7\\Program.cs",
+              "ToolTip": "D:\\Lap Trinh Dotnet\\Code\\BuoiTH1\\Bai7\\Program.cs",
+              "RelativeToolTip": "Bai7\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T01:40:04.604Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

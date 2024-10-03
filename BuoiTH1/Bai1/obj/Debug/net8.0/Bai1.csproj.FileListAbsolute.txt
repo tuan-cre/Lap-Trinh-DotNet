@@ -1,0 +1,14 @@
+D:\Lap Trinh Dotnet\Code\BuoiTH1\Bai1\obj\Debug\net8.0\Bai1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lap Trinh Dotnet\Code\BuoiTH1\Bai1\obj\Debug\net8.0\Bai1.AssemblyInfoInputs.cache
+D:\Lap Trinh Dotnet\Code\BuoiTH1\Bai1\obj\Debug\net8.0\Bai1.AssemblyInfo.cs
+D:\Lap Trinh Dotnet\Code\BuoiTH1\Bai1\obj\Debug\net8.0\Bai1.csproj.CoreCompileInputs.cache
+D:\Lap Trinh Dotnet\Code\BuoiTH1\Bai1\bin\Debug\net8.0\Bai1.exe
+D:\Lap Trinh Dotnet\Code\BuoiTH1\Bai1\bin\Debug\net8.0\Bai1.deps.json
+D:\Lap Trinh Dotnet\Code\BuoiTH1\Bai1\bin\Debug\net8.0\Bai1.runtimeconfig.json
+D:\Lap Trinh Dotnet\Code\BuoiTH1\Bai1\bin\Debug\net8.0\Bai1.dll
+D:\Lap Trinh Dotnet\Code\BuoiTH1\Bai1\bin\Debug\net8.0\Bai1.pdb
+D:\Lap Trinh Dotnet\Code\BuoiTH1\Bai1\obj\Debug\net8.0\Bai1.dll
+D:\Lap Trinh Dotnet\Code\BuoiTH1\Bai1\obj\Debug\net8.0\refint\Bai1.dll
+D:\Lap Trinh Dotnet\Code\BuoiTH1\Bai1\obj\Debug\net8.0\Bai1.pdb
+D:\Lap Trinh Dotnet\Code\BuoiTH1\Bai1\obj\Debug\net8.0\Bai1.genruntimeconfig.cache
+D:\Lap Trinh Dotnet\Code\BuoiTH1\Bai1\obj\Debug\net8.0\ref\Bai1.dll
