@@ -1,0 +1,10 @@
+C:\Users\Tuan\source\repos\BuoiTH3\Bai 3.3\bin\Debug\Bai 3.3.exe.config
+C:\Users\Tuan\source\repos\BuoiTH3\Bai 3.3\bin\Debug\Bai 3.3.exe
+C:\Users\Tuan\source\repos\BuoiTH3\Bai 3.3\bin\Debug\Bai 3.3.pdb
+C:\Users\Tuan\source\repos\BuoiTH3\Bai 3.3\obj\Debug\Bai 3.3.csproj.AssemblyReference.cache
+C:\Users\Tuan\source\repos\BuoiTH3\Bai 3.3\obj\Debug\Bai_3._3.Form1.resources
+C:\Users\Tuan\source\repos\BuoiTH3\Bai 3.3\obj\Debug\Bai_3._3.Properties.Resources.resources
+C:\Users\Tuan\source\repos\BuoiTH3\Bai 3.3\obj\Debug\Bai 3.3.csproj.GenerateResource.cache
+C:\Users\Tuan\source\repos\BuoiTH3\Bai 3.3\obj\Debug\Bai 3.3.csproj.CoreCompileInputs.cache
+C:\Users\Tuan\source\repos\BuoiTH3\Bai 3.3\obj\Debug\Bai 3.3.exe
+C:\Users\Tuan\source\repos\BuoiTH3\Bai 3.3\obj\Debug\Bai 3.3.pdb
