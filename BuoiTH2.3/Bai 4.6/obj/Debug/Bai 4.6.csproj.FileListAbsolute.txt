@@ -1,0 +1,10 @@
+D:\Lap-Trinh-DotNet\BuoiTH2.3\Bai 4.6\bin\Debug\Bai 4.6.exe.config
+D:\Lap-Trinh-DotNet\BuoiTH2.3\Bai 4.6\bin\Debug\Bai 4.6.exe
+D:\Lap-Trinh-DotNet\BuoiTH2.3\Bai 4.6\bin\Debug\Bai 4.6.pdb
+D:\Lap-Trinh-DotNet\BuoiTH2.3\Bai 4.6\obj\Debug\Bai 4.6.csproj.AssemblyReference.cache
+D:\Lap-Trinh-DotNet\BuoiTH2.3\Bai 4.6\obj\Debug\Bai_4._6.Form1.resources
+D:\Lap-Trinh-DotNet\BuoiTH2.3\Bai 4.6\obj\Debug\Bai_4._6.Properties.Resources.resources
+D:\Lap-Trinh-DotNet\BuoiTH2.3\Bai 4.6\obj\Debug\Bai 4.6.csproj.GenerateResource.cache
+D:\Lap-Trinh-DotNet\BuoiTH2.3\Bai 4.6\obj\Debug\Bai 4.6.csproj.CoreCompileInputs.cache
+D:\Lap-Trinh-DotNet\BuoiTH2.3\Bai 4.6\obj\Debug\Bai 4.6.exe
+D:\Lap-Trinh-DotNet\BuoiTH2.3\Bai 4.6\obj\Debug\Bai 4.6.pdb
